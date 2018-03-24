@@ -1,0 +1,22 @@
+{
+  "name": "vue-chrome-extension-template",
+  "version": "1.0.0",
+  "description": "Scaffolding out a Chrome Extension template",
+  "repository": {
+    "url": "sinchang/vue-chrome-extension-template",
+    "type": "git"
+  },
+  "author": "sinchang <sinchangwen@gmail.com> (github.com/sinchang)",
+  "license": "MIT",
+  "files": ["sao.js", "template"],
+  "scripts": {
+    "test": "ava"
+  },
+  "dependencies": {
+    "superb": "^1.3.0"
+  },
+  "devDependencies": {
+    "ava": "^0.21.0",
+    "sao": "^0.22.1"
+  }
+}
