@@ -33,7 +33,7 @@ sao sinchang/template-vue-chrome-extension my-project
 ### From npm
 
 ```bash
-sao template vue-chrome-extension my-project
+sao vue-chrome-extension my-project
 ```
 
 ## Development
