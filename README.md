@@ -1,6 +1,12 @@
-# template-vue-chrome-extension
+<h1 align="center">template-vue-chrome-extension</h1>
 
-> Scaffold out a Chrome Extension template
+<p align="center">
+  Scaffolding out a Chrome Extension template.
+</p>
+
+<p align="center">
+<a href="https://npmjs.com/package/template-vue-chrome-extension"><img src="https://img.shields.io/npm/v/template-vue-chrome-extension.svg?style=flat" alt="NPM version"></a> <a href="https://npmjs.com/package/template-vue-chrome-extension"><img src="https://img.shields.io/npm/dm/template-vue-chrome-extension.svg?style=flat" alt="NPM downloads"></a> <a href="https://circleci.com/gh/sinchang/template-vue-chrome-extension"><img src="https://img.shields.io/circleci/project/sinchang/template-vue-chrome-extension/master.svg?style=flat" alt="Build Status"></a>
+</p>
 
 ## Feature
 
