@@ -1,6 +1,6 @@
 {
   "name": "template-vue-chrome-extension",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Scaffolding out a Chrome Extension template",
   "repository": {
     "url": "sinchang/template-vue-chrome-extension",
