@@ -1,4 +1,4 @@
-# vue-chrome-extension-template
+# template-vue-chrome-extension
 
 > Scaffold out a Chrome Extension template
 
@@ -21,13 +21,13 @@ npm i -g sao
 ### From git
 
 ```bash
-sao sinchang/vue-chrome-extension-template my-project
+sao sinchang/template-vue-chrome-extension my-project
 ```
 
 ### From npm
 
 ```bash
-sao template vue-chrome-extension-template my-project
+sao template vue-chrome-extension my-project
 ```
 
 ## Development
