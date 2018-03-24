@@ -7,11 +7,6 @@ module.exports = (options) => ({
     'src/index.js'
   ],
   hash: false,
-  html: {
-    title: pkg.productName,
-    description: pkg.description,
-    template: path.join(__dirname, 'index.ejs')
-  },
   postcss: {
     plugins: [
       // Your postcss plugins

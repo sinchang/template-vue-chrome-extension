@@ -1,8 +1,8 @@
 # vue-chrome-extension-template
 
-> Scaffolding out a Chrome Extension template
+> Scaffold out a Chrome Extension template
 
-## Featute
+## Feature
 
 * Use [poi](https://poi.js.org)
 * ESLint with [eslint-config-alloy](https://github.com/AlloyTeam/eslint-config-alloy)
@@ -29,6 +29,12 @@ sao sinchang/vue-chrome-extension-template my-project
 ```bash
 sao template vue-chrome-extension-template my-project
 ```
+
+## Development
+
+1、yarn && yarn watch
+
+2、open `chrome://extensions/` load `dist` dir
 
 ## License
 
